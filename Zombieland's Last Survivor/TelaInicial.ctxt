@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TelaInicial
+comment0.text=\n\ Esta\ classe\ cria\ um\ menu\ inicial\ para\ o\ jogador.\n\ Inclui\ bot\u00F5es\ para\ iniciar\ o\ jogo\ e\ acessar\ informa\u00E7\u00F5es\ sobre\ o\ jogo.\n\ \n\ @author\ (AJC_GAMES)\ \n\ @version\ (07/12/2024)\n
+comment1.params=
+comment1.target=TelaInicial()
+comment1.text=\n\ Construtor\ para\ a\ TelaInicial.\n\ Configura\ o\ mundo\ com\ a\ imagem\ de\ fundo,\ m\u00FAsica\ e\ adiciona\ os\ bot\u00F5es.\n
+comment2.params=
+comment2.target=void\ adicionarBotoes()
+comment2.text=\n\ Adiciona\ os\ bot\u00F5es\ de\ "Iniciar"\ e\ "Informa\u00E7\u00F5es"\ \u00E0\ tela\ inicial.\n\ Os\ bot\u00F5es\ s\u00E3o\ centralizados\ verticalmente\ com\ posi\u00E7\u00F5es\ ajustadas\ horizontalmente.\n
+comment3.params=
+comment3.target=void\ adicionarInformacoes()
+comment3.text=\n\ Adiciona\ as\ informa\u00E7\u00F5es\ do\ jogo\ \u00E0\ tela\ inicial.\n
+numComments=4

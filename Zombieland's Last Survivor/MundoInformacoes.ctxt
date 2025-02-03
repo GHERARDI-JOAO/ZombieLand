@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MundoInformacoes
+comment0.text=\n\ Mundo\ que\ exibe\ as\ informa\u00E7\u00F5es\ sobre\ o\ jogo.\n
+comment1.params=
+comment1.target=MundoInformacoes()
+comment1.text=\n\ Construtor\ para\ o\ mundo\ de\ informa\u00E7\u00F5es.\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

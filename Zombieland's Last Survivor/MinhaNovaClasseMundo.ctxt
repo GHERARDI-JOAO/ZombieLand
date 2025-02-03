@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MinhaNovaClasseMundo
+comment0.text=\n\ Esta\ classe\ tem\ a\ fun\u00E7\u00E3o\ de\ criar\ um\ novo\ mundo\ para\ o\ jogo,\ pois\ o\ mundo\ World\ \u00E9\ abstrato.\n\ \n\ @author\ (AJC_GAMES)\ \n\ @version\ (07/12/2024)\n
+comment1.params=
+comment1.target=MinhaNovaClasseMundo()
+comment1.text=\n\ Construtor\ da\ Classe\ MinhaNovaClasseMundo.\n\ \n
+numComments=2

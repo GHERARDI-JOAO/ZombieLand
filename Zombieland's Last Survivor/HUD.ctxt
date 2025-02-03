@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=HUD
+comment1.params=world\ startTime\ saude
+comment1.target=HUD(greenfoot.World,\ long,\ int)
+comment1.text=\n\ Construtor\ da\ classe\ HUD.\n\n\ @param\ world\ \ \ \ \ O\ mundo\ onde\ o\ HUD\ ser\u00E1\ exibido.\n\ @param\ startTime\ O\ tempo\ inicial\ para\ calcular\ o\ tempo\ de\ sobreviv\u00EAncia.\n\ @param\ saude\ \ \ \ \ A\ sa\u00FAde\ inicial\ do\ jogador.\n
+comment2.params=novaSaude
+comment2.target=void\ atualizarSaude(int)
+comment2.text=\n\ Atualiza\ a\ sa\u00FAde\ exibida\ no\ HUD.\n\n\ @param\ novaSaude\ A\ nova\ sa\u00FAde\ do\ jogador.\n
+comment3.params=bullets
+comment3.target=void\ atualizarBalas(int)
+comment3.text=\n\ Atualiza\ o\ n\u00FAmero\ de\ balas\ exibido\ no\ HUD.\n\n\ @param\ bullets\ O\ n\u00FAmero\ de\ balas\ do\ jogador.\n
+comment4.params=
+comment4.target=void\ exibirInformacoes()
+comment4.text=\n\ Exibe\ as\ informa\u00E7\u00F5es\ na\ tela.\n\ Se\ bullets\ for\ -1,\ n\u00E3o\ exibe\ a\ contagem\ de\ balas\ (caso\ do\ Tank).\n
+numComments=5

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=GerenciadorVitoria
+comment1.params=mundo
+comment1.target=GerenciadorVitoria(greenfoot.World)
+comment2.params=saudeRestante\ tipoJogador
+comment2.target=void\ mostrarMensagemVitoria(int,\ java.lang.String)
+comment3.params=saudeRestante
+comment3.target=java.lang.String\ definirMensagemSoldado(int)
+comment4.params=saudeRestante
+comment4.target=java.lang.String\ definirMensagemTanque(int)
+numComments=5

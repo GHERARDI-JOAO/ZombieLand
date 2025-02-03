@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MundoPadrao
+comment0.text=\r\n\ Super\ classe\ para\ guardar\ dados\ referentes\ as\ configura\u00E7\u00F5es\ da\ tela.\r\n\ \r\n\ @author\ (AJC_GAMES)\ \r\n\ @version\ (31/01/2025)\r\n
+comment1.params=largura\ altura\ granularidade
+comment1.target=MundoPadrao(int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MundoPadrao.\r\n\ \r\n
+comment2.params=cor
+comment2.target=void\ configurarFundo(greenfoot.Color)
+comment3.params=nomeImagem
+comment3.target=void\ configurarFundo(java.lang.String)
+comment4.params=ator\ posY
+comment4.target=void\ adicionarElementoCentralizado(greenfoot.Actor,\ int)
+comment5.params=ator\ posX\ posY
+comment5.target=void\ adicionarElemento(greenfoot.Actor,\ int,\ int)
+numComments=6

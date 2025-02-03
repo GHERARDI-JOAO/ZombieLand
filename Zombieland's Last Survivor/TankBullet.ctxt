@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TankBullet
+comment0.text=\n\ Classe\ Bullet\ representa\ proj\u00E9teis\ disparados\ pelo\ jogador.\n\ Eles\ se\ movem\ na\ dire\u00E7\u00E3o\ definida\ e\ podem\ eliminar\ zumbis\ ao\ colidir.\n
+comment1.params=rotation
+comment1.target=TankBullet(int)
+comment1.text=\n\ Construtor\ da\ classe\ Bullet.\n\ \n\ @param\ rotation\ Rota\u00E7\u00E3o\ inicial\ da\ bala,\ define\ a\ dire\u00E7\u00E3o\ do\ disparo.\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ M\u00E9todo\ chamado\ em\ cada\ ciclo\ do\ jogo.\n\ Move\ a\ bala\ e\ verifica\ colis\u00F5es\ com\ zumbis\ ou\ se\ ela\ saiu\ da\ tela.\n
+comment3.params=
+comment3.target=void\ verificarRemocao()
+comment3.text=\n\ Verifica\ se\ a\ bala\ est\u00E1\ fora\ dos\ limites\ do\ mundo\ e\ a\ remove.\n
+numComments=4

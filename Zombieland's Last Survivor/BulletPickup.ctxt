@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=BulletPickup
+comment1.params=
+comment1.target=BulletPickup()
+comment1.text=\r\n\ Construtor\ da\ classe\ BulletPickup.\r\n\ Inicializa\ o\ objeto\ de\ pickup\ de\ bala\ com\ a\ imagem\ e\ o\ tamanho\ adequado.\r\n
+numComments=2

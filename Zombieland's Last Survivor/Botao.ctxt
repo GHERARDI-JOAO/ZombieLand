@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Botao
+comment0.text=\n\ Classe\ Botao\ representa\ bot\u00F5es\ interativos\ na\ interface\ do\ jogo.\n\ Os\ bot\u00F5es\ podem\ realizar\ a\u00E7\u00F5es\ como\ iniciar\ o\ jogo,\ exibir\ informa\u00E7\u00F5es\ ou\ retornar\ ao\ menu\ inicial.\n
+comment1.params=imagem\ acao\ musica
+comment1.target=Botao(greenfoot.GreenfootImage,\ java.lang.String,\ greenfoot.GreenfootSound)
+comment1.text=\n\ Construtor\ da\ classe\ Botao.\n\ \n\ @param\ imagem\ Imagem\ que\ ser\u00E1\ exibida\ no\ bot\u00E3o.\n\ @param\ acao\ A\u00E7\u00E3o\ associada\ ao\ bot\u00E3o\ (Iniciar,\ Info,\ Voltar).\n\ @param\ musica\ M\u00FAsica\ de\ fundo\ que\ ser\u00E1\ tocada\ ou\ parada\ ao\ clicar\ no\ bot\u00E3o.\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ M\u00E9todo\ chamado\ a\ cada\ ciclo\ do\ mundo.\n\ Verifica\ se\ o\ bot\u00E3o\ foi\ clicado\ e\ executa\ a\ a\u00E7\u00E3o\ associada.\n
+comment3.params=
+comment3.target=void\ executarAcao()
+comment3.text=\n\ Executa\ a\ a\u00E7\u00E3o\ associada\ ao\ bot\u00E3o\ com\ base\ na\ vari\u00E1vel\ 'acao'.\n\ Troca\ o\ mundo\ atual\ ou\ realiza\ outra\ l\u00F3gica\ conforme\ necess\u00E1rio.\n
+numComments=4

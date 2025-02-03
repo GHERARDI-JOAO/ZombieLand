@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Zombie
+comment1.params=
+comment1.target=Zombie()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ perseguirJogador()
+comment4.params=
+comment4.target=greenfoot.Actor\ getClosestTankOrSoldier()
+comment5.params=
+comment5.target=void\ atualizarAnimacao()
+comment6.params=
+comment6.target=void\ verificarColisaoComJogador()
+comment7.params=prefixo\ quantidade\ espelhar
+comment7.target=greenfoot.GreenfootImage[]\ carregarImagens(java.lang.String,\ int,\ boolean)
+numComments=8

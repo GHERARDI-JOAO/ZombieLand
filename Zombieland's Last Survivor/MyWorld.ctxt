@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment1.params=
+comment1.target=MyWorld()
+comment10.params=
+comment10.target=void\ pararSons()
+comment11.params=
+comment11.target=void\ spawnAdditionalZombies()
+comment12.params=
+comment12.target=void\ showVictoryMessage()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ verificarSpawnZumbi()
+comment4.params=
+comment4.target=void\ verificarSpawnMunicao()
+comment5.params=
+comment5.target=void\ verificarOndaAdicional()
+comment6.params=
+comment6.target=void\ verificarTempoSobrevivencia()
+comment7.params=
+comment7.target=void\ spawnZombie()
+comment8.params=zombie
+comment8.target=void\ removerZumbi(Zombie)
+comment9.params=
+comment9.target=void\ spawnBulletPickup()
+numComments=13

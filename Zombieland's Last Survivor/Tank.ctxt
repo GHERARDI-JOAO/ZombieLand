@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Tank
+comment0.text=\n\ Classe\ Tank\ representa\ o\ tanque\ de\ guerra\ controlado\ pelo\ jogador.\n\ O\ tanque\ pode\ girar\ e\ atirar,\ mas\ n\u00E3o\ pode\ se\ mover.\n
+comment1.params=hud
+comment1.target=Tank(HUD)
+comment1.text=\n\ Construtor\ da\ classe\ Tank.\n\ Inicializa\ a\ imagem\ do\ tanque\ e\ outros\ par\u00E2metros.\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ M\u00E9todo\ principal\ executado\ a\ cada\ frame.\n
+comment3.params=
+comment3.target=void\ girarParaMouse()
+comment3.text=\n\ Faz\ o\ tanque\ girar\ para\ a\ posi\u00E7\u00E3o\ do\ mouse.\n
+comment4.params=
+comment4.target=void\ atirar()
+comment4.text=\n\ Permite\ o\ tanque\ disparar\ proj\u00E9teis\ (com\ muni\u00E7\u00E3o\ infinita).\n
+comment5.params=
+comment5.target=void\ receberDano()
+comment6.params=
+comment6.target=void\ verificarMorte()
+comment7.params=
+comment7.target=int\ getSaude()
+numComments=8
